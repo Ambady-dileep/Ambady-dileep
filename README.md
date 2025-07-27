@@ -1,4 +1,4 @@
-## Connect with Me🤝
+## Links🔗
 [LinkedIn](https://linkedin.com/in/ambady-dileep) | [Instagram](https://instagram.com/ambady.dileep) | [Email](mailto:ambadydileep.pro@gmail.com) | [Threads](https://www.threads.net/@ambady.dileep) | [YouTube](https://youtube.com/@realambadydileep)
 
 ## Tech Stack
