@@ -1,5 +1,4 @@
-
-✨ Connect with Me
+## Connect with Me
 <p align="left"> <a href="https://facebook.com/profile.php?id=61578028623223"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="22"/> </a> <a href="https://instagram.com/ambady.dileep"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="22"/> </a> <a href="https://linkedin.com/in/ambady-dileep"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/> </a> <a href="https://pinterest.com/@ambadydileep17"> <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" height="22"/> </a> <a href="https://x.com/ambady.dileep"> <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="22"/> </a> <a href="https://youtube.com/@realambadydileep"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" height="22"/> </a> <a href="mailto:ambadydileep.pro@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="22"/> </a> </p>
 
 # 💻 Tech Stack:
