@@ -54,14 +54,3 @@ Tools & Design:
   <img src="https://github-readme-stats.vercel.app/api?username=Ambady-Dileep&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ambady-Dileep&theme=default&hide_border=true&background=00000000" height="165"/>
 </div>
-
-<!-- Streak -->
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=AmbadyDileep&theme=shadow_green&hide_border=false)
-
-<!-- Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmbadyDileep&theme=shadow_green&hide_border=false&count_private=true&show_icons=true)
-
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
