@@ -18,7 +18,6 @@
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
 ### 🚀 My Top Projects
 
 Here are some of my pinned repositories:
