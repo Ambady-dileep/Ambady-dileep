@@ -14,11 +14,11 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=AmbadyDileep&theme=shadow_green&hide_border=false)
 
 <!-- Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmbadyDileep&theme=shadow_green&hide_border=false&layout=compact)
+![Top Langs](https://ambady-readme-stats.vercel.app/api/top-langs/?username=AmbadyDileep&theme=shadow_green&hide_border=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AmbadyDileep&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![Top Langs](https://ambady-readme-stats.vercel.app/api/top-langs/?username=AmbadyDileep&theme=shadow_green&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
