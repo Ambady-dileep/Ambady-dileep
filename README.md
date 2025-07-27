@@ -18,11 +18,11 @@ Here are some of my pinned repositories:
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmbadyDileep&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmbadyDileep&theme=shadow_green&hide_border=false&count_private=true&show_icons=true)
-
 <!-- Streak -->
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=AmbadyDileep&theme=shadow_green&hide_border=false)
+
+<!-- Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmbadyDileep&theme=shadow_green&hide_border=false&count_private=true&show_icons=true)
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
