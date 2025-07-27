@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmbadyDileep&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-### 🚀 My Top Projects : [DSA Practice](https://github.com/Ambady-dileep/DSA-practice) | [Amazon Clone](https://github.com/Ambady-dileep/amazon) | [CoreFitness App](https://github.com/Ambady-dileep/corefitness_main_project) | [Git Practice](https://github.com/Ambady-dileep/git_practice)
+### 🚀 My Top Projects : [CoreFitness App](https://github.com/Ambady-dileep/corefitness_main_project) | [DSA Practice](https://github.com/Ambady-dileep/DSA-practice) | [Amazon Clone](https://github.com/Ambady-dileep/amazon) | [Git Practice](https://github.com/Ambady-dileep/git_practice)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ambady-Dileep&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="165"/>
