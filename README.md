@@ -6,6 +6,15 @@
 
 # 📊 GitHub Stats
 
+### 🚀 My Top Projects
+
+Here are some of my pinned repositories:
+
+- 🧠 [DSA-practice](https://github.com/Ambady-dileep/DSA-practice) – Practice problems for Data Structures & Algorithms.
+- 🛒 [amazon](https://github.com/Ambady-dileep/amazon) – A clone project using HTML.
+- 💪 [corefitness_main_project](https://github.com/Ambady-dileep/corefitness_main_project) – CoreFitness Django app.
+- 🧑‍💻 [git_practice](https://github.com/Ambady-dileep/git_practice) – GitHub and CLI practice repo.
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmbadyDileep&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
@@ -17,15 +26,6 @@
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🚀 My Top Projects
-
-Here are some of my pinned repositories:
-
-- 🧠 [DSA-practice](https://github.com/Ambady-dileep/DSA-practice) – Practice problems for Data Structures & Algorithms.
-- 🛒 [amazon](https://github.com/Ambady-dileep/amazon) – A clone project using HTML.
-- 💪 [corefitness_main_project](https://github.com/Ambady-dileep/corefitness_main_project) – CoreFitness Django app.
-- 🧑‍💻 [git_practice](https://github.com/Ambady-dileep/git_practice) – GitHub and CLI practice repo.
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Ambady-Dileep&label=Profile%20views&color=0e75b6&style=flat)
