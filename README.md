@@ -43,7 +43,8 @@
 
 </div>
 
-# 📊 GitHub Stats
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmbadyDileep&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🚀 My Top Projects
 
@@ -56,9 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ambady-Dileep&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ambady-Dileep&theme=default&hide_border=true&background=00000000" height="165"/>
 </div>
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AmbadyDileep&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Streak -->
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=AmbadyDileep&theme=shadow_green&hide_border=false)
