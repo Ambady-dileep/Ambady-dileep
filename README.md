@@ -43,7 +43,7 @@
 
 </div>
 
-### My Top Projects : [Core Fitness App](https://github.com/Ambady-dileep/corefitness_main_project) | [DSA Practice](https://github.com/Ambady-dileep/DSA-practice) | [Amazon Clone](https://github.com/Ambady-dileep/amazon) | [Git Practice](https://github.com/Ambady-dileep/git_practice)
+### My Top Projects : [Core Fitness App](https://github.com/Ambady-dileep/corefitness_main_project) | [DSA Practice](https://github.com/Ambady-dileep/DSA-practice) | [Amazon Clone](https://github.com/Ambady-dileep/amazon) | [Git Practice](https://github.com/Ambady-dileep/git_practice) | Zomato Clone ](https://github.com/Ambady-dileep/Zomato-clone)
 
 
 ## 🏆 GitHub Trophies
