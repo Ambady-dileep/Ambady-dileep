@@ -14,7 +14,7 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=AmbadyDileep&theme=shadow_green&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmbadyDileep&theme=shadow_green&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmbadyDileep&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
