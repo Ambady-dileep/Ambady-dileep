@@ -69,7 +69,4 @@
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 👥 Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=Ambady-Dileep&label=Profile%20Views&color=blue&style=flat)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
