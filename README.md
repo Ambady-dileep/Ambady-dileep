@@ -16,7 +16,14 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=AmbadyDileep&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🚀 My Top Projects
+
+Here are some of my pinned repositories:
+
+- 🧠 [DSA-practice](https://github.com/Ambady-dileep/DSA-practice) – Practice problems for Data Structures & Algorithms.
+- 🛒 [amazon](https://github.com/Ambady-dileep/amazon) – A clone project using HTML.
+- 💪 [corefitness_main_project](https://github.com/Ambady-dileep/corefitness_main_project) – CoreFitness Django app.
+- 🧑‍💻 [git_practice](https://github.com/Ambady-dileep/git_practice) – GitHub and CLI practice repo.
 
 ---
 [![Visits](https://visitcount.itsvg.in/api?id=Ambady%20Dileep&icon=0&color=0)](https://visitcount.itsvg.in)
